@@ -1,0 +1,86 @@
+/* Reset and Default */
+@import url("../common.blocks/default.reset/_reset.css");
+@import url("../common.blocks/default.reset/_default.css");
+@import url("../common.blocks/container/_container.css");
+
+/* Navbar */
+@import url("../common.blocks/navbar/_navbar.css");
+@import url("../common.blocks/navbar/_navbar__main-menu.css");
+@import url("../common.blocks/navbar/_navbar__mobile-menu.css");
+@import url("../common.blocks/navbar/@media/_media-queries.css");
+/* Hero */
+@import url("../common.blocks/hero/_hero.css");
+@import url("../common.blocks/hero/_hero__container--flex--row.css");
+@import url("../common.blocks/hero/_hero__image--lg.css");
+@import url("../common.blocks/hero/_hero__buttons--felx.css");
+@import url("../common.blocks/hero/_hero__content.css");
+@import url("../common.blocks/hero/@media/_media-queries.css");
+
+/* Button */
+@import url("../common.blocks/button/_button.css");
+@import url("../common.blocks/button/_button__icon.css");
+@import url("../common.blocks/button/_button--state--focused.css");
+
+/* Section One */
+@import url("../common.blocks/section-one/_section-one.css");
+@import url("../common.blocks/section-one/_section-one__container.css");
+@import url("../common.blocks/section-one/_section-one__card.css");
+@import url("../common.blocks/section-one/@media/_media-queries.css");
+
+/* Section Two */
+@import url("../common.blocks/section-two/_section-two.section-two__content.css");
+@import url("../common.blocks/section-two/_section-two__grid-item.css");
+@import url("../common.blocks/section-two/_section-two__grid.css");
+@import url("../common.blocks/section-two/@media/_media-queries.css");
+
+/* Section Three */
+@import url("../common.blocks/section-three/_section-three.css");
+@import url("../common.blocks/section-three/_section-three__container.css");
+@import url("../common.blocks/section-three/_section-three__video-wrapper.css");
+@import url("../common.blocks/section-three/_section-three__button.css");
+@import url("../common.blocks/section-three/@media/_media-queries.css");
+
+/* Modal */
+@import url("../common.blocks/modal/_modal.css");
+@import url("../common.blocks/modal/_modal__content.css");
+@import url("../common.blocks/modal/_modal__button.css");
+@import url("../common.blocks/modal/@media/_media-queries.css");
+
+/* Section Four */
+@import url("../common.blocks/section-four/_section-four__container.css");
+@import url("../common.blocks/section-four/_section-four__grid.css");
+@import url("../common.blocks/section-four/_section-four__content.css");
+@import url("../common.blocks/section-four/_section-four__icons.css");
+@import url("../common.blocks/section-four/@media/_media-queries.css");
+
+/* Section Five */
+@import url("../common.blocks/section-five/_section-five.css");
+@import url("../common.blocks/section-five/_section-five__container.css");
+@import url("../common.blocks/section-five/_section-five__header-title.css");
+@import url("../common.blocks/section-five/_section-five__cards--flex.css");
+@import url("../common.blocks/section-five/_section-five__card.css");
+@import url("../common.blocks/section-five/@media/_media-queries.css");
+
+/* Section Six */
+@import url("../common.blocks/section-six/_section-six.css");
+@import url("../common.blocks/section-six/_section-six__content.css");
+@import url("../common.blocks/section-six/@media/_media-queries.css");
+
+/* Footer */
+@import url("../common.blocks/footer/_footer__container.css");
+@import url("../common.blocks/footer/@media/_media-queries.css");
+
+/* Details.HTML */
+@import url("../common.blocks/inner-header/_inner-header.css");
+
+/* Section Details */
+@import url("../common.blocks/section-details/_section-details.css");
+@import url("../common.blocks/section-details/_section-details__title.css");
+@import url("../common.blocks/section-details/_section-details__cards.css");
+@import url("../common.blocks/section-details/_section-details__card-box.css");
+@import url("../common.blocks/section-details/_section-details__card-subtitle.css");
+@import url("../common.blocks/section-details/_section-details__card-title.css");
+@import url("../common.blocks/section-details/_section-details__card-list.css");
+@import url("../common.blocks/section-details/_section-details__card-icon.css");
+@import url("../common.blocks/section-details/_section-details__card-button.css");
+@import url("../common.blocks/section-details/@media/_media-queries.css");

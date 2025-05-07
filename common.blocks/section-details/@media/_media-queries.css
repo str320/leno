@@ -1,0 +1,22 @@
+
+@media (width <= 72rem) {
+   .section-details__cards {
+    grid-template-columns: repeat(2, 1fr);
+   }
+   .section-details__card {
+    max-width: 350px;
+    margin: 0 auto 2rem;
+   }
+
+}
+
+@media (width <= 48rem) {
+    
+    .section-details__cards {
+     grid-template-columns: 1fr;
+    }
+    .section-details__card-box {
+        max-width: 350px;
+    }
+
+}

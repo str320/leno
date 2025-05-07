@@ -1,0 +1,21 @@
+
+@media (width <= 62rem) {
+    .section-one__container-cards--grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .section-one__card {
+        padding: 0 1.5rem;
+    }
+    .section-one__card:nth-child(3) {
+        display: none;
+    }
+}
+
+@media (width <= 48rem) {
+    .section-one__container-cards--grid {
+        grid-template-columns: 1fr;
+    }
+    .section-one__card:nth-child(2) {
+        display: none;
+    }
+}

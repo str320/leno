@@ -1,0 +1,8 @@
+.section-one__container-cards--grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+    justify-content: center;
+    max-height: 350px;
+    gap: 2rem;
+ }

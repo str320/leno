@@ -1,0 +1,25 @@
+.section-two__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: start;
+    justify-content: start;
+    gap: 1.5rem;
+}
+
+.section-two__grid-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+}
+
+.section-two__grid-column--right .section-two__grid-item {
+    flex-direction: row-reverse;
+    text-align: left;
+}
+
+.section-two__grid-column--left,
+.section-two__grid-column--right {
+    align-self: center;
+}

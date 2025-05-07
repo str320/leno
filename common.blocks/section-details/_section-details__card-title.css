@@ -1,0 +1,6 @@
+.section-details__card-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--clr-text-100);
+    margin-bottom: 0.5rem;
+}

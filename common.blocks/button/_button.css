@@ -1,0 +1,12 @@
+.button {
+    text-decoration: none;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--clr-text-100);
+    background-color: var(--clr-primary-100);
+    border: 2px solid transparent;
+    border-radius: 32px;
+    padding: 1rem 2rem;
+    transition: background-color 0.3s ease-in-out;
+}

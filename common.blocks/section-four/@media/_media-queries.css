@@ -1,0 +1,30 @@
+
+@media (width <= 62rem) {
+    .section-four__grid {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+    .section-four__grid-image:nth-child(1) {
+        order: -1;
+    }
+    .section-four__grid-image {
+        margin-inline: auto;
+        max-width: 350px;
+    }
+    .section-four__content {
+        margin: 0 auto;
+    }
+    .section-four__icons {
+        flex-direction: column;
+    }
+    .section-four__icon-item {
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    }
+}
+
+
+@media (width <= 48rem) {
+
+}

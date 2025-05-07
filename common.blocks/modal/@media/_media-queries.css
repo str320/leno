@@ -1,0 +1,16 @@
+
+@media (width <= 62rem) {
+
+}
+
+
+@media (width <= 48rem) {
+    .modal__content {
+        margin: 40% auto;
+        padding: 1rem;
+        width: 90%;
+    }
+    .modal__video-player {
+        width: 100%;
+    }
+}

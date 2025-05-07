@@ -1,0 +1,5 @@
+.inner-header {
+    background: url("/images/header-background.jpg")
+    center center/cover;
+    padding: 12rem  4rem;
+}

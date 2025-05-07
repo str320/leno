@@ -1,0 +1,6 @@
+.section-details__card-subtitle {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--clr-primary-100);
+    margin-bottom: 1rem;
+}

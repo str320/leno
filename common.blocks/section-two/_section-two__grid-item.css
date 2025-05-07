@@ -1,0 +1,27 @@
+.section-two__grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    text-align: right;
+}
+
+.section-two__grid-item-content{
+    color: var(--clr-text-100)
+}
+
+.section-two__grid-item-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.section-two__grid-item-text {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.section-two__grid-item-icon {
+    color: var(--clr-primary-100);
+    margin-top: 2rem;
+}

@@ -1,0 +1,22 @@
+.section-four__content:nth-child(2) {
+    order: -1;
+}
+
+.section-four__content {
+    max-width: 500px;
+}
+
+.section-four__content-title {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--clr-text-100);
+    margin-bottom: 2rem;
+}
+
+.section-four__content-text {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: var(--clr-text-100);
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,36 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    line-height: 1.5;
+    font-family: "Open Sans",  sans-serif;
+    color: #ffff;
+    -webkit-font-smoothing:antialiased;
+    scroll-behavior: smooth;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+input, button, textarea, select {
+    font: inherit;
+}
+
+p, h1, h2, h3, h4 {
+    overflow-wrap: break-word;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1, h2, h3, h4 {
+    text-wrap: balance;
+}
+

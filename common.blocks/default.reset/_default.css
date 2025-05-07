@@ -1,0 +1,14 @@
+:root {
+    --clr-primary-100: #08c0dd;
+
+    --clr-secondary-100: #ffff; 
+    --clr-secondary-300: #2f2c3d; 
+    --clr-secondary-900: #262431;
+
+    --clr-text-100: #ffff;
+
+}
+
+body {
+    background-color: var(--clr-secondary-900);
+}

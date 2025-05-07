@@ -1,0 +1,5 @@
+.button--state--focused:hover {
+    background-color: var(--clr-secondary-900);
+    border: 1px solid var(--clr-primary-100);
+    cursor: pointer;
+}

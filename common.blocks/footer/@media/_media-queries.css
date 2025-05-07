@@ -1,0 +1,24 @@
+
+@media (width <= 62rem) {
+    .footer__main-flex {
+        flex-direction: column;
+        text-align: center;
+        gap: 2rem;
+    }
+    .footer__info-flex {
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+    }
+    .footer__menu-links-flex {
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+
+@media (width <= 48rem) {
+
+   
+}

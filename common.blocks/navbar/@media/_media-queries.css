@@ -1,0 +1,13 @@
+
+@media (width <= 62rem) {
+
+}
+
+@media (width <= 48rem) {
+    .navbar__mobile-menu {
+        display: block;
+    }
+    .navbar__main-menu-items {
+        display: none;
+    }
+}

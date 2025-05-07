@@ -1,0 +1,9 @@
+.section-details__card-list {
+    list-style: none;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 2;
+    text-align: left;
+    color: var(--clr-text-100);
+
+}

@@ -1,0 +1,19 @@
+
+@media (width <= 62rem) {
+    .section-six__content--flex {
+        flex-direction: column-reverse;
+    }
+    .section-six__content-buttons--flex {
+        flex-direction: column;
+    }
+    .section-six__button {
+        width: 100%;
+    }
+}
+
+@media (width <= 48rem) {
+    .section-six__image-img {
+        padding: 0 1rem;
+        max-width: 400px;
+    } 
+}

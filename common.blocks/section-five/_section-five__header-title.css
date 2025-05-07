@@ -1,0 +1,9 @@
+.section-five__header-title {
+    font-size: 2.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--clr-text-100);
+    border-bottom: 2px solid var(--clr-primary-100);
+    width: 300px;
+    margin: 0 auto 2.5rem;
+}

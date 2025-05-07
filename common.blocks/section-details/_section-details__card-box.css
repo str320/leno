@@ -1,0 +1,8 @@
+.section-details__card-box {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 1rem;
+    padding: 3rem 2rem;
+    margin-bottom: 3rem;
+    border: 2px solid transparent;
+    transition: 0.3s ease-in-out;
+}

@@ -1,0 +1,12 @@
+.section-five__card {
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.section-five__card:hover {
+    transform: scale(1.2);
+}
+.section-five__card-img {
+    max-width: 200px;
+}

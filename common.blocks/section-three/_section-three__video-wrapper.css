@@ -1,0 +1,8 @@
+.section-three__video-wrapper {
+    position: relative;
+}
+
+.section-three__video-wrapper-image {
+    border-radius: 0.5rem;
+    margin: 0 auto;
+}

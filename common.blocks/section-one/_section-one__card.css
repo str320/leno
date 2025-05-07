@@ -1,0 +1,27 @@
+.section-one__card {
+   padding: 0 2rem;
+ }
+
+ .section-one__card-avatar {
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    margin: 0 auto;
+   }
+   
+.section-one__card-content {
+   margin-top: 1.5rem;
+}
+
+ .section-one__card-text {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.7;
+    font-style: italic;
+ }
+
+ .section-one__card-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+ }

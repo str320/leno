@@ -1,0 +1,4 @@
+.section-details__card-box--focused:hover {
+    outline: 1px solid var(--clr-primary-100);
+    cursor: pointer;
+}

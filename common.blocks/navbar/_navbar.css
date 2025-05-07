@@ -1,0 +1,26 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    background-color: transparent;
+    padding: 1rem 2rem;
+}
+
+.navbar__container--flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar.navbar--scroll {
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(16.5px);
+}
+
+.navbar__logo img {
+    width: 112px;
+    height: 36px;
+}

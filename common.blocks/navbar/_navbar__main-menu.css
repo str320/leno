@@ -1,0 +1,31 @@
+.navbar__main-menu-list {
+    list-style: none;
+}
+
+.navbar__main-menu-list--flex {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.navbar__main-menu-link {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--clr-secondary-100);
+}
+
+.navbar__main-menu-link:hover {
+    color: var(--clr-primary-100);
+    cursor: pointer;
+}
+
+.navbar__main-menu-link--primary {
+    font-size: 1.2rem;
+    color: var(--clr-primary-100);
+}
+
+.navbar__main-menu-link--primary:hover {
+    color: var(--clr-secondary-100);
+    cursor: pointer;
+}
